@@ -8,10 +8,10 @@
   },
   "author": "Bruno Rodrigues",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "express-session": "^1.17.2",
-    "libxmljs": "^0.19.7",
-    "nodemon": "^2.0.14"
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "express-session": "^1.18.2",
+    "libxmljs": "^1.0.11",
+    "nodemon": "^2.0.22"
   }
 }
